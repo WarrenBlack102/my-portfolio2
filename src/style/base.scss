@@ -1,0 +1,12 @@
+body {
+    margin: 0px;
+    font-family: 'Lobster', cursive;
+    background-color: rgb(188, 232, 238);
+    justify-content: center;
+    align-items: center;
+}
+
+.container {
+    display: grid;
+    grid-template-columns: 1fr;
+  }
